@@ -25,7 +25,7 @@ This project analyzes product performance on Amazon India using SQL, AWS RDS (Po
 4. Built interactive Power BI dashboard with Top-N category filtering
 
 ## Dashboard Preview
-![Dashboard](screenshots /dashboard_overview.png)
+![Dashboard](screenshots/dashboard_overview.png)
 
 ## Future Improvements
 - Add time-based analysis if historical data is available
